@@ -1,6 +1,7 @@
 {
     "name": "edcpl/laravel-calendar",
-    "description": "EDC version for Laravel helper for FullCalendar.io",
+    "version": "1.0.0",
+    "description": "EDC version of Laravel helper for FullCalendar.io",
     "license": "MIT",
     "type": "package",
     "authors": [
