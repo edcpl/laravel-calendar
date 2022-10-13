@@ -1,17 +1,6 @@
-# Laravel 7 & 8 Full Calendar 5 Helper
+# Full Calendar 5 Helper
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
-
-Thanks to [@maddhatter](https://github.com/maddhatter) for the [initial repo](https://github.com/maddhatter/laravel-fullcalendar) for laravel < 7
-
-## Installing
-Require the package with composer using the following command:
-
-    composer require acaronlex/laravel-calendar
-
-The provider and `Calendar` alias will be registered automatically.
-
-You will also need to include [fullcalendar.io](http://fullcalendar.io/)'s files in your HTML.
 
 ## Usage
 
